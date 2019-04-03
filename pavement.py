@@ -10,7 +10,7 @@ for a release at once.
 
 
 Building a Windows installer from Wine
-======================================
+===============================
 
 The Python version the installer is for can be specified with the ``-p 2.6``
 switch (this works for all installer tasks). To build a simple (no SSE
